@@ -1,1 +1,1 @@
-Download files and place into web server. Start coding :)
+Download files and place into web directory. Start coding :)
